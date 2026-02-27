@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "python-control-structures",
+      "title": "Python Control Structures",
+      "description": "Practice using if, for, while, and foreach loops in Python.",
+      "path": "assignments/python-control-structures",
+      "dueDate": "2026-03-06",
+      "attachments": [
+        {
+          "name": "Model Answer",
+          "file": "model-answer.py",
+          "type": "python"
+        }
+      ]
+      },
+      {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
@@ -39,8 +53,8 @@
           "type": "python"
         }
       ]
-    },
-    {
+      },
+      {
       "id": "data-analysis",
       "title": "Data Analysis",
       "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
